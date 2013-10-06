@@ -98,8 +98,8 @@ int main(void){
 //   //UART_Send(DisNum, countof(DisNum)-1);
   	LCD_DisplayStringLine(3,DisNum);  
 //     
-// //  
-// // }
+
+ }
 // 	
 // 	 
   }
